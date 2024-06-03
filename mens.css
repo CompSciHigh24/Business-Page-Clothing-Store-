@@ -1,0 +1,22 @@
+/* This page is for styling in my mens html page */
+#name{
+  text-align: center;
+  color:#efd780;
+  font-family: 'Oooh Baby', cursive;
+  font-weight: bold;
+}
+
+.placeholder-glow{
+  color:#efd780
+}
+
+.offcanvas-title{
+  font-family: 'Oooh Baby', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.card-title{
+  text-align: center;
+}

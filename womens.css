@@ -1,0 +1,26 @@
+/* This page is for styling in my womens html page */
+#name{
+  text-align: center;
+  color:#efd780;
+  font-family: 'Oooh Baby', cursive;
+  font-weight: bold;
+}
+
+.placeholder-glow{
+  color:#efd780
+}
+
+.card-title{
+  text-align: center;
+  color:#efd780;
+  font-family: 'Oooh Baby', cursive;
+  font-weight: bold;
+}
+
+
+.offcanvas-title{
+  font-family: 'Oooh Baby', cursive;
+  font-size: 50px;
+  font-weight: bold;
+  text-decoration: none;
+}
